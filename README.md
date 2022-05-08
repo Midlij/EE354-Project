@@ -1,4 +1,4 @@
-A Game Inspired By “FunBrain”
+An FPGA Game Inspired By “FunBrain”
 
 
 Abstract
